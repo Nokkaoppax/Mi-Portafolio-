@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #429b45;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+h1 {
+    margin 0;
+}
+
+section {
+    text-align: center;
+    padding: 2em;
+}
+
+.perfil {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 1em;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.redes-sociales {
+    list-style: none;
+    padding: 0;
+}
+
+.redes-sociales li {
+    display: inline;
+    margin: 0 1em;
+}
+
+.redes-sociales a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.redes-sociales a:hover {
+    text-decoration: underline;
+}
